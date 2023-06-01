@@ -1,6 +1,5 @@
 package com.example.springbootrabbitmq.config;
 
-import com.sun.xml.internal.org.jvnet.staxex.NamespaceContextEx;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
 import org.springframework.amqp.core.CustomExchange;
